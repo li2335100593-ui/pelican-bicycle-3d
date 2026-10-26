@@ -7,3 +7,7 @@ A pelican riding a bicycle — a procedurally generated real-time 3D scene.
 - Drag to orbit, scroll to zoom, space to pause, speed slider, and camera presets.
 
 Built with Three.js. `index.html` is fully self-contained apart from the Three.js CDN import.
+
+## Live
+
+https://li2335100593-ui.github.io/pelican-bicycle-3d/
